@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n4rzzzls;
 - 👀 I’m interested in software/game development and QA (both manual and automation);
-- 🌱 I’m currently learning .NET;
+- 🌱 I’m currently learning .NET (C#) and Python;
 - 💞️ I’m looking to collaborate on -;
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/bohdan-tsebryk/, Skype - live:bohdan.tsebryk3, Telegram - @pushthelimit1;
 
